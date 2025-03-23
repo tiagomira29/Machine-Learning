@@ -1,4 +1,4 @@
-# Machine-Learning
+# ML
 Classification of 2D medical images from two distinct datasets: dermoscopy and blood cell microscopy.
 
 The class labels are:
